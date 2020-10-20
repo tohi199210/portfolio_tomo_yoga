@@ -1,24 +1,16 @@
-# README
+今回、ヨガの投稿サイトを作成しました。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+友人がヨガのサイトを作りたいと聞いて作ってみました。
 
-Things you may want to cover:
+作成した機能は以下の通りです。
+・ログイン機能
+・ユーザー検索機能
+・コメント機能
+・いいね機能
+・投稿のランキング機能
+・退会機能
+・投稿機能
 
-* Ruby version
+です。
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+よろしくお願いします。
